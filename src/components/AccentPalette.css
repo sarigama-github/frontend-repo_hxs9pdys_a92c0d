@@ -1,0 +1,8 @@
+:root{
+  --terracotta-600:#c55232;
+  --terracotta-700:#a8432a;
+  --forest-700:#0f3d2e;
+}
+.text-terracotta-600{color:var(--terracotta-600)}
+.text-terracotta-700{color:var(--terracotta-700)}
+.bg-forest-700{background-color:var(--forest-700)}
